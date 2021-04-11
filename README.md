@@ -4,7 +4,7 @@ The project has two parts:
 ## 1. Spring Rest API  
 Used to add/delete/edit/view cities and their population in the database using REST calls.
 
-## Spring Rest Client  
+## 2. Spring Rest Client  
 This project is the frontend that uses the REST API to show cities/poulation to the user.  
 
 Project using Spring(Java Configuration) and Maven.  
